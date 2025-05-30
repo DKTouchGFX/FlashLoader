@@ -1,0 +1,71 @@
+# Prerequisites
+*.d
+*.mk
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+*.crf
+*.bin
+*.cyclo
+*.cache
+*.ipch
+
+# Linker output
+*.ilk
+*.map
+*.exp
+*.axf
+*.exp
+*.htm
+*.map
+*.dep
+*.list
+*.srec
+*.log
+*.srec
+*.tlog
+*.asm
+*.props
+*.targets
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+*.srec
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+
+/.mxproject
+*.list
+/EWARM/ETEML0700T2ZDH6M.ewp
